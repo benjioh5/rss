@@ -8,21 +8,28 @@
         <outline text="행사" title="행사">
             <outline type="rss" text="" title="" xmlUrl="http://onoffmix.com/rss" htmlUrl="https://onoffmix.com/"/>
         </outline>
-        <outline text="Blockchain" title="Blockchain">
+        <outline text="학교" title="학교">
+            <outline type="rss" text="한양대학교 : 공지사항 (Hanyang University : Notice)" title="한양대학교 : 공지사항 (Hanyang University : Notice)" xmlUrl="https://portal.hanyang.ac.kr/GjshAct/viewRSS.do?gubun=rss" htmlUrl="http://portal.hanyang.ac.kr:80"/>
+            <outline type="rss" text="한양대학교 공과대학 컴퓨터공학부" title="한양대학교 공과대학 컴퓨터공학부" xmlUrl="http://cs.hanyang.ac.kr/rss/?p=intro/intro03" htmlUrl="http://cs.hanyang.ac.kr/"/>
+            <outline type="rss" text="» Makeathon" title="» Makeathon" xmlUrl="http://fablab-seoul.org/category/makeathon/feed/" htmlUrl="http://fablab-seoul.org"/>
+        </outline>
+        <outline text="블록체인" title="블록체인">
             <outline type="rss" text="해시드 팀 블로그" title="해시드 팀 블로그" xmlUrl="https://medium.com/feed/hashed-kr" htmlUrl="https://medium.com/hashed-kr?source=rss----897bd5d9e2f5---4"/>
             <outline type="rss" text="ZenGo" title="ZenGo" xmlUrl="https://medium.com/feed/zengo" htmlUrl="https://medium.com/zengo?source=rss----d0877743aa4f---4"/>
             <outline type="rss" text="rekt" title="rekt" xmlUrl="https://rekt.ghost.io/rss/" htmlUrl="https://rekt.ghost.io/"/>
             <outline type="rss" text="EthHub" title="EthHub" xmlUrl="https://ethhub.substack.com/feed/" htmlUrl="https://ethhub.substack.com"/>
             <outline type="rss" text="Stories by BlockSecTeam on Medium" title="Stories by BlockSecTeam on Medium" xmlUrl="https://medium.com/feed/@blocksecteam" htmlUrl="https://medium.com/@blocksecteam?source=rss-47b316008922------2"/>
+            <outline type="rss" text="(Juna) =&gt; log" title="(Juna) =&gt; log" xmlUrl="https://bakjuna.tistory.com/rss" htmlUrl="https://bakjuna.tistory.com/"/>
             <outline type="rss" text="a41 Ventures" title="a41 Ventures" xmlUrl="https://medium.com/feed/a41-ventures" htmlUrl="https://medium.com/a41-ventures?source=rss----e26fabba3b52---4"/>
             <outline type="rss" text="LYZE" title="LYZE" xmlUrl="https://medium.com/feed/lyze" htmlUrl="https://medium.com/lyze?source=rss----64610457114a---4"/>
             <outline type="rss" text="Maker Blog" title="Maker Blog" xmlUrl="https://blog.makerdao.com/rss/" htmlUrl="https://blog.makerdao.com/"/>
             <outline type="rss" text="What's New in Eth2" title="What's New in Eth2" xmlUrl="https://benjaminion.xyz/newineth2/rss_feed.xml" htmlUrl="https://benjaminion.xyz/newineth2/"/>
             <outline type="rss" text="이더리움 연구회 기술 블로그" title="이더리움 연구회 기술 블로그" xmlUrl="https://tech.etherstudy.net/feed.xml" htmlUrl="https://tech.etherstudy.net/"/>
-            <outline type="rss" text="Stories by Arseny Reutov on Medium" title="Stories by Arseny Reutov on Medium" xmlUrl="https://medium.com/feed/@theRaz0r" htmlUrl="https://medium.com/@theRaz0r?source=rss-59b08ea1873d------2"/>
+            <outline type="rss" text="Stories by Arseniy Reutov on Medium" title="Stories by Arseniy Reutov on Medium" xmlUrl="https://medium.com/feed/@theRaz0r" htmlUrl="https://medium.com/@theRaz0r?source=rss-59b08ea1873d------2"/>
             <outline type="rss" text="Elysia TechBlog" title="Elysia TechBlog" xmlUrl="https://tech.elysia.land/feed" htmlUrl="https://tech.elysia.land?source=rss----cc5ac4eee9d4---4"/>
             <outline type="rss" text="RV Blog" title="RV Blog" xmlUrl="https://runtimeverification.com/blog/feed/" htmlUrl="https://runtimeverification.com/blog"/>
             <outline type="rss" text="CURG" title="CURG" xmlUrl="https://medium.com/feed/curg" htmlUrl="https://medium.com/curg?source=rss----73804e6aa2fa---4"/>
+            <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@janetjang" htmlUrl="https://medium.com/@janetjang?source=rss-4cce15d2ee72------2"/>
             <outline type="rss" text="BOSAGORA » 피드" title="BOSAGORA » 피드" xmlUrl="https://bosagora.io/ko/feed/" htmlUrl="https://bosagora.io/ko/"/>
             <outline type="rss" text="Blog | Tenderly" title="Blog | Tenderly" xmlUrl="https://blog.tenderly.co/rss/" htmlUrl="https://blog.tenderly.co/"/>
             <outline type="rss" text="Paradigm" title="Paradigm" xmlUrl="https://www.paradigm.xyz/feed/" htmlUrl="https://www.paradigm.xyz"/>
@@ -35,6 +42,9 @@
             <outline type="rss" text="Protocol Labs Research" title="Protocol Labs Research" xmlUrl="https://research.protocol.ai/index.xml" htmlUrl="https://research.protocol.ai/"/>
             <outline type="rss" text="뉴테크프라임" title="뉴테크프라임" xmlUrl="http://www.umlcert.com/feed/" htmlUrl="http://www.umlcert.com"/>
             <outline type="rss" text="Klaytn Developers Forum - 최신 토픽" title="Klaytn Developers Forum - 최신 토픽" xmlUrl="https://forum.klaytn.com/latest.rss" htmlUrl="https://forum.klaytn.com/latest"/>
+            <outline type="rss" text="김훈일 rss" title="김훈일 rss" xmlUrl="https://brunch.co.kr/rss/@@5mre" htmlUrl="https://brunch.co.kr/@@5mre"/>
+            <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/angel-league" htmlUrl="https://medium.com/angel-league?source=rss----d442041edebf---4"/>
+            <outline type="rss" text="Latest posts" title="Latest posts" xmlUrl="https://community.zeroknowledge.fm/posts.rss" htmlUrl="https://community.zeroknowledge.fm"/>
             <outline type="rss" text="Ethereum Research - Latest posts" title="Ethereum Research - Latest posts" xmlUrl="http://ethresear.ch/posts.rss" htmlUrl="https://ethresear.ch"/>
             <outline type="rss" text="noder" title="noder" xmlUrl="https://noder.foundation/feed/" htmlUrl="https://geeknote923386042.wpcomstaging.com"/>
             <outline type="rss" text="Fellowship of Ethereum Magicians - Latest posts" title="Fellowship of Ethereum Magicians - Latest posts" xmlUrl="https://ethereum-magicians.org/posts.rss" htmlUrl="https://ethereum-magicians.org"/>
@@ -47,7 +57,9 @@
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@y8ncastle" htmlUrl="https://medium.com/@y8ncastle?source=rss-101132637100------2"/>
             <outline type="rss" text="Stories by Star LI on Medium" title="Stories by Star LI on Medium" xmlUrl="https://medium.com/feed/@starli" htmlUrl="https://medium.com/@starli?source=rss-76bb8c7324bd------2"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@Ethan_Lee_a41" htmlUrl="https://medium.com/@Ethan_Lee_a41?source=rss-2a15e2de0195------2"/>
+            <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@KLEVA_Protocol_official" htmlUrl="https://medium.com/@KLEVA_Protocol_official?source=rss-8988055f54a4------2"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@chohyunki" htmlUrl="https://medium.com/@chohyunki?source=rss-c89f7b4f00e7------2"/>
+            <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@bellman-04" htmlUrl="https://medium.com/@bellman-04?source=rss-99e8e6896144------2"/>
         </outline>
         <outline text="스타트업" title="스타트업">
             <outline type="rss" text="KISA: 공지사항" title="KISA: 공지사항" xmlUrl="http://www.kisa.or.kr/jsp/util/rss.jsp?b_No=4" htmlUrl="http://www.kisa.or.kr/jsp/notice/notice_list.jsp?b_No=4"/>
@@ -101,7 +113,7 @@
             <outline type="rss" text="우디" title="우디" xmlUrl="https://brunch.co.kr/rss/@@2hV3" htmlUrl="https://brunch.co.kr/@@2hV3"/>
             <outline type="rss" text="정보시각화 아틀리에" title="정보시각화 아틀리에" xmlUrl="http://feeds2.feedburner.com/infovis" htmlUrl="http://infovis.tistory.com/"/>
             <outline type="rss" text="그날그날 디자인" title="그날그날 디자인" xmlUrl="http://blog.rss.naver.com/appifystudio.xml" htmlUrl="http://blog.naver.com/appifystudio"/>
-            <outline type="rss" text="디자인간" title="디자인간" xmlUrl="https://brunch.co.kr/rss/@@6aX" htmlUrl="https://brunch.co.kr/@@6aX"/>
+            <outline type="rss" text="아무개" title="아무개" xmlUrl="https://brunch.co.kr/rss/@@6aX" htmlUrl="https://brunch.co.kr/@@6aX"/>
             <outline type="rss" text="한킴블로그" title="한킴블로그" xmlUrl="http://hankim.me/rss" htmlUrl="http://hankim.me"/>
             <outline type="rss" text="강수영" title="강수영" xmlUrl="https://brunch.co.kr/rss/@@2I8" htmlUrl="https://brunch.co.kr/@@2I8"/>
             <outline type="rss" text="NHN AD, UI/UX Lab 공식블로그" title="NHN AD, UI/UX Lab 공식블로그" xmlUrl="http://blog.rss.naver.com/uiux_lab.xml" htmlUrl="http://blog.naver.com/uiux_lab"/>
@@ -114,7 +126,7 @@
             <outline type="rss" text="Carrot's storage" title="Carrot's storage" xmlUrl="https://carrotdesign.tistory.com/feed/" htmlUrl="https://carrotdesign.tistory.com/"/>
             <outline type="rss" text="슬로워크 블로그" title="슬로워크 블로그" xmlUrl="http://slowalk.tistory.com/rss" htmlUrl="https://slowalk.com/"/>
             <outline type="rss" text="전민수의 Ux 이야기" title="전민수의 Ux 이야기" xmlUrl="http://blog.rss.naver.com/ebpr.xml" htmlUrl="http://blog.naver.com/ebpr"/>
-            <outline type="rss" text="지각비버LB" title="지각비버LB" xmlUrl="https://brunch.co.kr/rss/@@tJM" htmlUrl="https://brunch.co.kr/@@tJM"/>
+            <outline type="rss" text="프로토타입L" title="프로토타입L" xmlUrl="https://brunch.co.kr/rss/@@tJM" htmlUrl="https://brunch.co.kr/@@tJM"/>
             <outline type="rss" text="송준협" title="송준협" xmlUrl="https://brunch.co.kr/rss/@@8Al" htmlUrl="https://brunch.co.kr/@@8Al"/>
             <outline type="rss" text="uxfactory" title="uxfactory" xmlUrl="http://feeds.feedburner.com/UXFactory" htmlUrl="https://uxfactory.tistory.com/"/>
             <outline type="rss" text="디자인 로그(Design Log)" title="디자인 로그(Design Log)" xmlUrl="http://feeds.feedburner.com/DesignlogOfMaru" htmlUrl="https://www.designlog.org/"/>
@@ -176,7 +188,7 @@
         <outline text="Bioinformatics" title="Bioinformatics">
             <outline type="rss" text="memoRandum for data analytics" title="memoRandum for data analytics" xmlUrl="http://feeds.feedburner.com/wsyang" htmlUrl="https://wsyang.com/"/>
             <outline type="rss" text="incodom: Posts" title="incodom: Posts" xmlUrl="http://www.incodom.kr/sp.posts?_type=atom" htmlUrl="http://www.incodom.kr/"/>
-            <outline type="rss" text="두마디 정밀의료" title="두마디 정밀의료" xmlUrl="https://2wordspm.com/feed/" htmlUrl="https://2wordspm.com"/>
+            <outline type="rss" text="두마디 정밀의료" title="두마디 정밀의료" xmlUrl="https://2wordspm.com/feed/" htmlUrl="https://2wordspm.wordpress.com"/>
         </outline>
         <outline text="IT" title="IT">
             <outline type="rss" text="러브드웹의 인터넷이야기" title="러브드웹의 인터넷이야기" xmlUrl="http://feeds2.feedburner.com/Lovedweb" htmlUrl="http://naver.loved.pe.kr"/>
@@ -184,11 +196,11 @@
             <outline type="rss" text="Start-up, Investment &amp; IT - 위현종의 블로그" title="Start-up, Investment &amp; IT - 위현종의 블로그" xmlUrl="http://jasonwi.com/rss" htmlUrl="http://thinktank13.tistory.com/"/>
             <outline type="rss" text="Datanami" title="Datanami" xmlUrl="http://www.datanami.com/rss/datanami/feed.rss" htmlUrl="https://www.datanami.com"/>
             <outline type="rss" text="VCNC Engineering Blog" title="VCNC Engineering Blog" xmlUrl="http://engineering.vcnc.co.kr/atom.xml" htmlUrl="https://engineering.vcnc.co.kr/"/>
-            <outline type="rss" text="freeCodeCamp.org" title="freeCodeCamp.org" xmlUrl="https://medium.freecodecamp.com/feed" htmlUrl="https://www.freecodecamp.org/news"/>
+            <outline type="rss" text="freeCodeCamp.org" title="freeCodeCamp.org" xmlUrl="https://medium.freecodecamp.com/feed" htmlUrl="https://www.freecodecamp.org/news/"/>
             <outline type="rss" text="eggry.lab" title="eggry.lab" xmlUrl="http://rss.egloos.com/blog/eggry" htmlUrl="http://eggry.egloos.com"/>
             <outline type="rss" text="Seapy Blog" title="Seapy Blog" xmlUrl="http://feeds.feedburner.com/seapy" htmlUrl="http://seapy.com"/>
             <outline type="rss" text="퓨처워커들의 u-Platform 이야기" title="퓨처워커들의 u-Platform 이야기" xmlUrl="http://www.futurewalker.kr/rss" htmlUrl="http://www.futurewalker.kr/"/>
-            <outline type="rss" text="류광의 번역 이야기" title="류광의 번역 이야기" xmlUrl="http://occamsrazr.net/tt/index.xml" htmlUrl="http://occamsrazr.net/tt"/>
+            <outline type="rss" text="블로그 :: 류광의 번역 이야기" title="블로그 :: 류광의 번역 이야기" xmlUrl="http://occamsrazr.net/tt/index.xml" htmlUrl="https://occamsrazr.net/tt/"/>
             <outline type="rss" text="Tumblr Engineering" title="Tumblr Engineering" xmlUrl="http://engineering.tumblr.com/rss" htmlUrl="https://engineering.tumblr.com/"/>
             <outline type="rss" text="techG" title="techG" xmlUrl="http://techg.kr/feed" htmlUrl="https://techg.kr"/>
             <outline type="rss" text="Albireo's PowerBook" title="Albireo's PowerBook" xmlUrl="http://www.albireo.net/forums/-/index.rss" htmlUrl="http://www.albireo.net/forum/"/>
@@ -200,7 +212,7 @@
             <outline type="rss" text="kwanny.page" title="kwanny.page" xmlUrl="http://kwanny.ntreev.net/tt/index.xml" htmlUrl="https://www.kwanny.com/"/>
             <outline type="rss" text="BeyondJ2EE" title="BeyondJ2EE" xmlUrl="http://beyondj2ee.tumblr.com/rss" htmlUrl="https://beyondj2ee.tumblr.com/"/>
             <outline type="rss" text="NEOEARLY* by 라디오키즈" title="NEOEARLY* by 라디오키즈" xmlUrl="http://feeds.neoearly.net/radiokidz" htmlUrl="https://neoearly.net/"/>
-            <outline type="rss" text="Feature creep designer" title="Feature creep designer" xmlUrl="http://lqez.github.io/blog/feeds/all.atom.xml" htmlUrl="https://lqez.github.io/blog/"/>
+            <outline type="rss" text="Feature creep designer" title="Feature creep designer" xmlUrl="http://lqez.github.io/blog/feeds/all.atom.xml" htmlUrl="https://lqez.dev/blog/"/>
             <outline type="rss" text="README" title="README" xmlUrl="http://feeds.feedburner.com/skpreadme" htmlUrl="http://readme.skplanet.com"/>
             <outline type="rss" text="OSGeo(Open Source GeoSpatial) 한국어 지부" title="OSGeo(Open Source GeoSpatial) 한국어 지부" xmlUrl="http://www.osgeo.kr/rss" htmlUrl="https://www.osgeo.kr/"/>
             <outline type="rss" text="DEV용식" title="DEV용식" xmlUrl="http://devyongsik.tistory.com/rss" htmlUrl="https://devyongsik.tistory.com/"/>
@@ -335,7 +347,7 @@
             <outline type="rss" text="블라인드 렌더러" title="블라인드 렌더러" xmlUrl="http://kblog.popekim.com/feeds/posts/default" htmlUrl="https://kblog.popekim.com/"/>
             <outline type="rss" text="by minieetea" title="by minieetea" xmlUrl="http://minieetea.com/feed" htmlUrl="https://minieetea.com"/>
             <outline type="rss" text="내 성격 100% 활용하기 -上-" title="내 성격 100% 활용하기 -上-" xmlUrl="http://blog.rss.naver.com/drvoss.xml" htmlUrl="http://blog.naver.com/drvoss"/>
-            <outline type="rss" text="Huns.me" title="Huns.me" xmlUrl="http://huns.me/feed/" htmlUrl="https://coderk.github.io/"/>
+            <outline type="rss" text="Huns.me" title="Huns.me" xmlUrl="http://huns.me/feed/" htmlUrl="http://localhost:4000/"/>
             <outline type="rss" text="S&amp;TSoft » 피드" title="S&amp;TSoft » 피드" xmlUrl="http://www.sntsoft.co.kr/index.php/feed/" htmlUrl="http://www.sntsoft.co.kr"/>
             <outline type="rss" text="신현석(Hyeonseok Shin)" title="신현석(Hyeonseok Shin)" xmlUrl="http://hyeonseok.com/rss/" htmlUrl="http://hyeonseok.com/"/>
             <outline type="rss" text="Stories by seapy on Medium" title="Stories by seapy on Medium" xmlUrl="https://medium.com/feed/@seapy" htmlUrl="https://medium.com/@seapy?source=rss-e83eb04943c9------2"/>
@@ -366,7 +378,7 @@
             <outline type="rss" text="잡생각 전문 블로그" title="잡생각 전문 블로그" xmlUrl="http://thoughts.chkwon.net/feed/" htmlUrl="https://thoughts.chkwon.net"/>
             <outline type="rss" text="[ClouDeveloper] 남정현의 클라우드 블로그" title="[ClouDeveloper] 남정현의 클라우드 블로그" xmlUrl="http://www.rkttu.com/rss" htmlUrl="https://www.rkttu.com"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@dr_robin" htmlUrl="https://medium.com/@dr_robin?source=rss-71a4e57cf71f------2"/>
-            <outline type="rss" text="벤자민로그" title="벤자민로그" xmlUrl="http://feeds.feedburner.com/crazytazo" htmlUrl="https://www.benjaminlog.com/"/>
+            <outline type="rss" text="K리그 프로그래머" title="K리그 프로그래머" xmlUrl="http://feeds.feedburner.com/crazytazo" htmlUrl="https://jeho.page/"/>
             <outline type="rss" text="정리 불가능의 영역" title="정리 불가능의 영역" xmlUrl="http://bluepolaris.tistory.com/rss" htmlUrl="https://bluepolaris.tistory.com/"/>
             <outline type="rss" text="delight의 테크 블로그" title="delight의 테크 블로그" xmlUrl="http://teccuss.wordpress.com/feed/" htmlUrl="https://teccuss.wordpress.com"/>
             <outline type="rss" text="공상제작소" title="공상제작소" xmlUrl="http://catchrod.tistory.com/rss" htmlUrl="https://catchrod.tistory.com/"/>
@@ -374,7 +386,7 @@
             <outline type="rss" text="지앤선의 책 사랑" title="지앤선의 책 사랑" xmlUrl="http://jinson.tistory.com/rss" htmlUrl="https://jinson.tistory.com/"/>
             <outline type="rss" text="Joone Blog" title="Joone Blog" xmlUrl="http://feeds.feedburner.com/Joone" htmlUrl="https://joone.wordpress.com"/>
             <outline type="rss" text="Nalee와 함께 떠나는 IT이야기" title="Nalee와 함께 떠나는 IT이야기" xmlUrl="http://naleejang.tistory.com/rss" htmlUrl="https://naleejang.tistory.com/"/>
-            <outline type="rss" text="닥터몰라" title="닥터몰라" xmlUrl="http://drmola.com/rss" htmlUrl="http://drmola.com/"/>
+            <outline type="rss" text="Dr. Mola's RSS" title="Dr. Mola's RSS" xmlUrl="http://drmola.com/rss" htmlUrl="http://drmola.com/"/>
             <outline type="rss" text="자그니 블로그 : 거리로 나가자, 키스를 하자" title="자그니 블로그 : 거리로 나가자, 키스를 하자" xmlUrl="http://rss.egloos.com/blog/news" htmlUrl="http://news.egloos.com"/>
             <outline type="rss" text="My Space-Time Discontinuum" title="My Space-Time Discontinuum" xmlUrl="http://fupfin.tumblr.com/rss" htmlUrl="https://fupfin.tumblr.com/"/>
             <outline type="rss" text="삐돌이의 웹 접근성 &amp; IT Transformation" title="삐돌이의 웹 접근성 &amp; IT Transformation" xmlUrl="http://jhyun.wordpress.com/feed/" htmlUrl="https://jhyun.wordpress.com"/>
@@ -497,7 +509,7 @@
             <outline type="rss" text="그대안의 작은 호수" title="그대안의 작은 호수" xmlUrl="http://www.smallake.kr/?feed=rss2" htmlUrl="https://smallake.kr"/>
             <outline type="rss" text="까먹지말자!" title="까먹지말자!" xmlUrl="http://rss.egloos.com/blog/kwon37xi" htmlUrl="http://kwon37xi.egloos.com"/>
             <outline type="rss" text="디밥의 블로그" title="디밥의 블로그" xmlUrl="http://rss.egloos.com/blog/debop" htmlUrl="http://debop.egloos.com"/>
-            <outline type="rss" text="Blog for Android &amp; IT" title="Blog for Android &amp; IT" xmlUrl="http://androidkr.blogspot.com/feeds/posts/default" htmlUrl="http://androidkr.blogspot.com/"/>
+            <outline type="rss" text="일상에서 생각난 것들 정리" title="일상에서 생각난 것들 정리" xmlUrl="http://androidkr.blogspot.com/feeds/posts/default" htmlUrl="http://androidkr.blogspot.com/"/>
             <outline type="rss" text="Lucy Park" title="Lucy Park" xmlUrl="http://feeds.feedburner.com/e9t" htmlUrl="http://www.lucypark.kr/"/>
             <outline type="rss" text="에티 ETI" title="에티 ETI" xmlUrl="http://etinow.me/rss" htmlUrl="https://etinow.me/"/>
             <outline type="rss" text="만화로 나누는 자유/오픈소스 소프트웨어 이야기" title="만화로 나누는 자유/오픈소스 소프트웨어 이야기" xmlUrl="http://www.joone.net/feeds/posts/default" htmlUrl="https://joonecomics.wordpress.com"/>
@@ -571,11 +583,12 @@
             <outline type="rss" text="금융안정보고서 | 한국은행 통합 홈페이지" title="금융안정보고서 | 한국은행 통합 홈페이지" xmlUrl="https://www.bok.or.kr/portal/bbs/P0000593/news.rss?menuNo=200769" htmlUrl="https://www.bok.or.kr/"/>
             <outline type="rss" text="경실련 뉴스" title="경실련 뉴스" xmlUrl="http://www.ccej.or.kr/index.php?module=rss&amp;act=rss" htmlUrl="https://www.ccej.or.kr/"/>
             <outline type="rss" text="화폐관련 발간자료 | 한국은행 통합 홈페이지" title="화폐관련 발간자료 | 한국은행 통합 홈페이지" xmlUrl="https://www.bok.or.kr/portal/bbs/P0000608/news.rss?menuNo=200464" htmlUrl="https://www.bok.or.kr/"/>
-            <outline type="rss" text="서울대 인공지능정책 이니셔티브" title="서울대 인공지능정책 이니셔티브" xmlUrl="http://sapi.co.kr/feed/" htmlUrl="http://sapi.co.kr"/>
+            <outline type="rss" text="서울대 인공지능정책 이니셔티브" title="서울대 인공지능정책 이니셔티브" xmlUrl="http://sapi.co.kr/feed/" htmlUrl="https://sapi.co.kr"/>
         </outline>
         <outline text="뉴스" title="뉴스">
             <outline type="rss" text="비즈니스 리더의 지식 매니저" title="비즈니스 리더의 지식 매니저" xmlUrl="http://www.dongabiz.com/xml/dbr_magazine_all.xml" htmlUrl="http://www.dongabiz.com/"/>
             <outline type="rss" text="Korea" title="Korea" xmlUrl="http://www.huffingtonpost.com/feeds/verticals/korea/blog.xml" htmlUrl="https://www.huffpost.com/news/topic/korea"/>
+            <outline type="rss" text="뉴스타파 NEWSTAPA" title="뉴스타파 NEWSTAPA" xmlUrl="http://download.newstapa.org/api/podcast.xml" htmlUrl="https://newstapa.org"/>
             <outline type="rss" text="한국어 월간지 중국" title="한국어 월간지 중국" xmlUrl="http://blog.rss.naver.com/touchchina.xml" htmlUrl="http://blog.naver.com/touchchina"/>
             <outline type="rss" text="Businessweek.com" title="Businessweek.com" xmlUrl="http://www.businessweek.com/feeds/most-popular.rss" htmlUrl="http://businessweek.com"/>
             <outline type="rss" text="Misfits" title="Misfits" xmlUrl="http://misfits.kr/feed" htmlUrl="http://misfits.kr"/>
@@ -653,7 +666,7 @@
             <outline type="rss" text="Stories by Daniel Hong on Medium" title="Stories by Daniel Hong on Medium" xmlUrl="https://medium.com/feed/@unifiedh" htmlUrl="https://medium.com/@unifiedh?source=rss-6f615408a13a------2"/>
             <outline type="rss" text="ASH Han 한승환" title="ASH Han 한승환" xmlUrl="http://www.seunghwanhan.com/feeds/posts/default?alt=rss" htmlUrl="http://www.seunghwanhan.com/"/>
             <outline type="rss" text="HAECHI LABS" title="HAECHI LABS" xmlUrl="https://medium.com/feed/haechi-labs" htmlUrl="https://medium.com/haechi-audit-kr?source=rss----44585d9e5774---4"/>
-            <outline type="rss" text="DeFi Pulse" title="DeFi Pulse" xmlUrl="https://defipulse.com/blog/feed/" htmlUrl="https://defipulse.com/blog"/>
+            <outline type="rss" text="DeFi Pulse" title="DeFi Pulse" xmlUrl="https://defipulse.com/blog/feed/" htmlUrl="https://www.defipulse.com/blog"/>
             <outline type="rss" text="Santiment" title="Santiment" xmlUrl="https://medium.com/feed/santiment" htmlUrl="https://medium.com/santiment?source=rss----c8e00695620d---4"/>
             <outline type="rss" text="Laanwj’s blog" title="Laanwj’s blog" xmlUrl="https://laanwj.github.io/feed.xml" htmlUrl="http://laanwj.github.io/"/>
             <outline type="rss" text="" title="" xmlUrl="https://dappradar.com/blog/feed" htmlUrl="https://dappradar.com"/>
@@ -666,6 +679,7 @@
             <outline type="rss" text="블로그 이사갔어요! https://milooy.github.io/" title="블로그 이사갔어요! https://milooy.github.io/" xmlUrl="https://milooy.wordpress.com/feed/" htmlUrl="https://milooy.wordpress.com"/>
             <outline type="rss" text="꿀벌개발일지" title="꿀벌개발일지" xmlUrl="http://ohgyun.com/rss" htmlUrl="https://ohgyun.com/"/>
             <outline type="rss" text="HelloJany" title="HelloJany" xmlUrl="https://newstars.cloud/feed/" htmlUrl="https://newstars.cloud/"/>
+            <outline type="rss" text="GeekNews Blog" title="GeekNews Blog" xmlUrl="https://news.hada.io/rss/blog" htmlUrl="https://news.hada.io/blog"/>
             <outline type="rss" text="xLY 공개 레터" title="xLY 공개 레터" xmlUrl="https://xly.kr/feeds" htmlUrl="https://xly.kr/feeds"/>
             <outline type="rss" text="양준철" title="양준철" xmlUrl="https://brunch.co.kr/rss/@@lIP" htmlUrl="https://brunch.co.kr/@@lIP"/>
             <outline type="rss" text="FTW: Changes" title="FTW: Changes" xmlUrl="http://functionalthinking.appspot.com/sp.changes?_type=atom" htmlUrl="http://functionalthinking.appspot.com/"/>
@@ -684,6 +698,7 @@
             <outline type="rss" text="한솔닷컴" title="한솔닷컴" xmlUrl="http://hsol.tistory.com/rss" htmlUrl="https://hsol.tistory.com/"/>
             <outline type="rss" text="데브 다이어리" title="데브 다이어리" xmlUrl="http://www.dev-diary.com/feed" htmlUrl="https://www.dev-diary.com"/>
             <outline type="rss" text="javable" title="javable" xmlUrl="https://woowacourse.github.io/javable/feed.xml" htmlUrl="https://woowacourse.github.io/javable/"/>
+            <outline type="rss" text="김맥스 기술 블로그" title="김맥스 기술 블로그" xmlUrl="https://maxkim-j.github.io/feed.xml" htmlUrl="https://maxkim-j.github.io/"/>
             <outline type="rss" text="init 1" title="init 1" xmlUrl="https://mooyoul.github.io/atom.xml" htmlUrl="https://mooyoul.github.io/"/>
             <outline type="rss" text="" title="" xmlUrl="https://hcnoh.github.io/feed.xml" htmlUrl="https://hcnoh.github.io/"/>
             <outline type="rss" text="Typed.sh" title="Typed.sh" xmlUrl="https://typed.sh/rss/" htmlUrl="https://typed.sh/"/>
@@ -711,6 +726,7 @@
             <outline type="rss" text="Zed Shaw" title="Zed Shaw" xmlUrl="http://zedshaw.com/feed/" htmlUrl="https://zedshaw.com/"/>
             <outline type="rss" text="Blue Frog's Wisdom" title="Blue Frog's Wisdom" xmlUrl="http://juggernaut.tistory.com/rss" htmlUrl="https://juggernaut.tistory.com/"/>
             <outline type="rss" text="맨손잡이" title="맨손잡이" xmlUrl="https://mans0n.github.io/atom.xml" htmlUrl="https://mans0n.github.io/"/>
+            <outline type="rss" text="Stories by F-Lab - Tech blog on Medium" title="Stories by F-Lab - Tech blog on Medium" xmlUrl="https://medium.com/feed/@f-lab" htmlUrl="https://medium.com/@f-lab?source=rss-897d8f631b28------2"/>
             <outline type="rss" text="최창규" title="최창규" xmlUrl="https://brunch.co.kr/rss/@@399" htmlUrl="https://brunch.co.kr/@@399"/>
             <outline type="rss" text="oneonezerozero" title="oneonezerozero" xmlUrl="http://oneonezerozero.tumblr.com/rss" htmlUrl="https://oneonezerozero.tumblr.com/"/>
             <outline type="rss" text="GONI" title="GONI" xmlUrl="http://blog.rss.naver.com/ehdrhs1004.xml" htmlUrl="http://blog.naver.com/ehdrhs1004"/>
@@ -727,7 +743,8 @@
             <outline type="rss" text="아티클 - SeongTae's Blogs" title="아티클 - SeongTae's Blogs" xmlUrl="http://www.sysnet.pe.kr/rss/getrss.aspx?boardId=331301885" htmlUrl="https://www.sysnet.pe.kr/2/0"/>
             <outline type="rss" text="서광열 블로그" title="서광열 블로그" xmlUrl="http://skyul.tistory.com/rss" htmlUrl="https://skyul.tistory.com/"/>
             <outline type="rss" text="On Lisp" title="On Lisp" xmlUrl="http://onlisp.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://onlisp.blogspot.com/"/>
-            <outline type="rss" text="Jaejun Yoo's Playground" title="Jaejun Yoo's Playground" xmlUrl="http://jaejunyoo.blogspot.com/feeds/posts/default" htmlUrl="http://jaejunyoo.blogspot.com/"/>
+            <outline type="rss" text="Stories by 임성묵 (Sungmook Lim) on Medium" title="Stories by 임성묵 (Sungmook Lim) on Medium" xmlUrl="https://medium.com/feed/@limsungmook" htmlUrl="https://medium.com/@limsungmook?source=rss-4442af772d1c------2"/>
+            <outline type="rss" text="Jaejun Yoo's Playground" title="Jaejun Yoo's Playground" xmlUrl="http://jaejunyoo.blogspot.com/feeds/posts/default" htmlUrl="https://jaejunyoo.blogspot.com/"/>
             <outline type="rss" text="eGoing" title="eGoing" xmlUrl="http://egoing.net/rss" htmlUrl="https://egoing.net"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@dhnam" htmlUrl="https://medium.com/@dhnam?source=rss-f49c13fd48d1------2"/>
             <outline type="rss" text="-[|]- Box and Whisker" title="-[|]- Box and Whisker" xmlUrl="http://www.boxnwhis.kr/feed.xml" htmlUrl="https://boxnwhis.kr/"/>
@@ -740,6 +757,7 @@
             <outline type="rss" text="제이미" title="제이미" xmlUrl="https://theeluwin.postype.com/rss/" htmlUrl="https://theeluwin.postype.com"/>
             <outline type="rss" text="Integerous DevLog on Integerous DevLog" title="Integerous DevLog on Integerous DevLog" xmlUrl="http://integerous.github.io/index.xml" htmlUrl="http://integerous.github.io/"/>
             <outline type="rss" text="" title="" xmlUrl="https://blog.chosunghyun.com/rss/" htmlUrl="https://blog.chosunghyun.com/"/>
+            <outline type="rss" text="Fernando 기술 블로그" title="Fernando 기술 블로그" xmlUrl="https://fernando.kr/rss.xml" htmlUrl="https://fernando.kr"/>
             <outline type="rss" text="DRAMA&amp;COMPANY" title="DRAMA&amp;COMPANY" xmlUrl="http://developer.dramancompany.com/feed/" htmlUrl="https://blog.dramancompany.com"/>
             <outline type="rss" text="기획자 본인만큼 잡다한 블로그" title="기획자 본인만큼 잡다한 블로그" xmlUrl="http://rss.egloos.com/blog/greentec" htmlUrl="http://greentec.egloos.com"/>
             <outline type="rss" text="Pluu Dev" title="Pluu Dev" xmlUrl="http://pluu.github.io/feed.xml" htmlUrl="http://pluu.github.io/"/>
@@ -749,6 +767,7 @@
             <outline type="rss" text="Icewall 기술 블로그" title="Icewall 기술 블로그" xmlUrl="http://icewall.tech/blog/feed.xml" htmlUrl="https://HYU-ICEWALL.github.io"/>
             <outline type="rss" text="기억속으로 날다" title="기억속으로 날다" xmlUrl="http://rss.egloos.com/blog/byung" htmlUrl="http://byung.egloos.com"/>
             <outline type="rss" text="기술 저장소" title="기술 저장소" xmlUrl="https://reoim.tistory.com/rss" htmlUrl="https://reoim.tistory.com/"/>
+            <outline type="rss" text="lemondouble.log" title="lemondouble.log" xmlUrl="https://v2.velog.io/rss/lemondouble" htmlUrl="https://velog.io/"/>
             <outline type="rss" text="온돌방 아랫목. 그리고,   ...다락방" title="온돌방 아랫목. 그리고,   ...다락방" xmlUrl="http://blackblight.blog.me/rss" htmlUrl="http://blog.naver.com/blackblight"/>
             <outline type="rss" text="Stories by 김대현 on Medium" title="Stories by 김대현 on Medium" xmlUrl="https://medium.com/feed/@hatemogi" htmlUrl="https://medium.com/@hatemogi?source=rss-f96bfc687175------2"/>
             <outline type="rss" text="The Apache Software Foundation" title="The Apache Software Foundation" xmlUrl="https://blogs.apache.org/foundation/feed/entries/atom" htmlUrl="https://blogs.apache.org/foundation/"/>
@@ -761,6 +780,7 @@
             <outline type="rss" text="AB180 블로그 - 좋은 솔루션이 좋은 퍼포먼스를 만듭니다." title="AB180 블로그 - 좋은 솔루션이 좋은 퍼포먼스를 만듭니다." xmlUrl="http://blog.ab180.co/rss/" htmlUrl="https://blog.ab180.co/"/>
             <outline type="rss" text="Outsider's Dev Story" title="Outsider's Dev Story" xmlUrl="http://feeds2.feedburner.com/rss_outsider_dev" htmlUrl="https://blog.outsider.ne.kr/"/>
             <outline type="rss" text="SparkHub" title="SparkHub" xmlUrl="http://sparkhub.databricks.com/feed/" htmlUrl="https://sparkhub.databricks.com"/>
+            <outline type="rss" text="GeekNews - 개발/기술/스타트업 뉴스 서비스" title="GeekNews - 개발/기술/스타트업 뉴스 서비스" xmlUrl="http://feeds.feedburner.com/geeknews-feed" htmlUrl="https://news.hada.io"/>
             <outline type="rss" text="Nudge" title="Nudge" xmlUrl="http://blog.nudge.do/feed/" htmlUrl="http://blog.nudge.do"/>
             <outline type="rss" text="Tania Rascia | RSS Feed" title="Tania Rascia | RSS Feed" xmlUrl="https://www.taniarascia.com/rss.xml" htmlUrl="https://www.taniarascia.com"/>
             <outline type="rss" text="개발하는 seapy는" title="개발하는 seapy는" xmlUrl="https://code.iamseapy.com/feed" htmlUrl="https://code.iamseapy.com"/>
@@ -778,7 +798,7 @@
             <outline type="rss" text="일모리와 웹표준" title="일모리와 웹표준" xmlUrl="http://feeds.feedburner.com/ilmol" htmlUrl="http://ilmol.com/"/>
             <outline type="rss" text="유스풀패러다임" title="유스풀패러다임" xmlUrl="http://www.usefulparadigm.com/rss"/>
             <outline type="rss" text="everypython" title="everypython" xmlUrl="http://everypython.com/feed" htmlUrl="http://everypython.com"/>
-            <outline type="rss" text="Korea Awesome Developers" title="Korea Awesome Developers" xmlUrl="https://awesome-blogs.petabytes.org/feeds?group=dev"/>
+            <outline type="rss" text="개발자 어썸블로그" title="개발자 어썸블로그" xmlUrl="https://awesome-blogs.petabytes.org/feeds?group=dev"/>
             <outline type="rss" text="Popit" title="Popit" xmlUrl="http://www.popit.kr/feed/" htmlUrl="https://www.popit.kr"/>
             <outline type="rss" text="┗System∑Sec†ion┛" title="┗System∑Sec†ion┛" xmlUrl="http://devanix.tistory.com/rss" htmlUrl="https://devanix.tistory.com/"/>
             <outline type="rss" text="웹으로 말하기" title="웹으로 말하기" xmlUrl="http://feeds.feedburner.com/mytory_tc" htmlUrl="https://mytory.net/"/>
@@ -805,13 +825,14 @@
             <outline type="rss" text="Sutter’s Mill" title="Sutter’s Mill" xmlUrl="http://herbsutter.com/feed/" htmlUrl="https://herbsutter.com"/>
             <outline type="rss" text="DODOMIRA" title="DODOMIRA" xmlUrl="http://www.dodomira.com/feed/" htmlUrl="http://www.dodomira.com"/>
             <outline type="rss" text="Subicura's Blog" title="Subicura's Blog" xmlUrl="http://subicura.com/feed.xml" htmlUrl="https://subicura.com/"/>
-            <outline type="rss" text="VW LAB" title="VW LAB" xmlUrl="http://www.vw-lab.com/rss" htmlUrl="https://www.vw-lab.com/"/>
+            <outline type="rss" text="VWL" title="VWL" xmlUrl="http://www.vw-lab.com/rss" htmlUrl="https://www.vw-lab.com/"/>
             <outline type="rss" text="유나's blog" title="유나's blog" xmlUrl="http://gayuna.tistory.com/rss" htmlUrl="https://gayuna.tistory.com/"/>
             <outline type="rss" text="Microsoft Security Blog" title="Microsoft Security Blog" xmlUrl="http://blogs.technet.com/mmpc/rss.xml" htmlUrl="https://www.microsoft.com/security/blog"/>
             <outline type="rss" text="Weekly Pick RSS Feed" title="Weekly Pick RSS Feed" xmlUrl="https://ui.toast.com/rss.xml" htmlUrl="http://github.com/dylang/node-rss"/>
             <outline type="rss" text="origoni's Home" title="origoni's Home" xmlUrl="http://millky.com/@origoni/rss/post/list" htmlUrl="http://millky.com/@origoni"/>
             <outline type="rss" text="꿈꾸는 대학원생" title="꿈꾸는 대학원생" xmlUrl="http://blog.jeehoon.me/rss" htmlUrl="http://blog.jeehoon.me/"/>
             <outline type="rss" text="make something" title="make something" xmlUrl="http://dev.bloodevil.com/rss" htmlUrl="https://dev.bloodevil.com/"/>
+            <outline type="rss" text="craft + alchemy" title="craft + alchemy" xmlUrl="https://www.chrischae.kr/rss/" htmlUrl="https://www.canda.blog/"/>
             <outline type="rss" text="HashedPost" title="HashedPost" xmlUrl="http://www.hashedpost.com/feeds/posts/default?alt=rss" htmlUrl="http://www.hashedpost.com/"/>
             <outline type="rss" text="Dharma" title="Dharma" xmlUrl="http://crazia.tistory.com/rss" htmlUrl="https://crazia.tistory.com/"/>
             <outline type="rss" text="Flying Machine Studios" title="Flying Machine Studios" xmlUrl="http://feeds.feedburner.com/FlyingMachineStudios" htmlUrl="http://www.flyingmachinestudios.com/"/>
@@ -832,7 +853,7 @@
             <outline type="rss" text="Tokyo Branch" title="Tokyo Branch" xmlUrl="https://www.tokyobranch.net/feed" htmlUrl="https://www.tokyobranch.net"/>
             <outline type="rss" text="CHANN Blog" title="CHANN Blog" xmlUrl="https://blog.chann.kr/rss.xml" htmlUrl="https://blog.chann.kr"/>
             <outline type="rss" text="LUFT - AQUILA" title="LUFT - AQUILA" xmlUrl="https://luftaquila.tistory.com/rss" htmlUrl="https://luftaquila.tistory.com/"/>
-            <outline type="rss" text="eo (uploads) on YouTube" title="eo (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUQ2DWm5Md16Dc3xRwwhVE7Q" htmlUrl="https://youtube.com/playlist?list=UUQ2DWm5Md16Dc3xRwwhVE7Q"/>
+            <outline type="rss" text="eo (uploads) on YouTube" title="eo (uploads) on YouTube" xmlUrl="https://www.youtube.com/playlist?list=UUQ2DWm5Md16Dc3xRwwhVE7Q" htmlUrl="https://www.youtube.com/playlist?list=UUQ2DWm5Md16Dc3xRwwhVE7Q"/>
             <outline type="rss" text="Stephen Wolfram" title="Stephen Wolfram" xmlUrl="http://blog.stephenwolfram.com/feed/" htmlUrl="https://writings.stephenwolfram.com"/>
             <outline type="rss" text="Passion is like genius; a miracle." title="Passion is like genius; a miracle." xmlUrl="http://feeds.feedburner.com/PassionIsLikeGeniusAMiracle" htmlUrl="http://mkseo.pe.kr/blog"/>
             <outline type="rss" text="환상정원" title="환상정원" xmlUrl="http://blog.rss.naver.com/blue9954.xml" htmlUrl="http://blog.naver.com/blue9954"/>
@@ -844,6 +865,7 @@
             <outline type="rss" text="Creation &amp; Freedom" title="Creation &amp; Freedom" xmlUrl="http://newpower.tistory.com/rss" htmlUrl="https://newpower.tistory.com/"/>
             <outline type="rss" text="Min's Engineer Story" title="Min's Engineer Story" xmlUrl="http://feeds.feedburner.com/tuning-java" htmlUrl="https://www.tuning-java.com/"/>
             <outline type="rss" text="ziwon.github.io" title="ziwon.github.io" xmlUrl="https://ziwon.github.io/index.xml" htmlUrl="https://ziwon.github.io/"/>
+            <outline type="rss" text="고은연" title="고은연" xmlUrl="https://v2.velog.io/rss/koeunyeon" htmlUrl="https://velog.io/"/>
             <outline type="rss" text="Hyperconnect Tech Blog" title="Hyperconnect Tech Blog" xmlUrl="https://hyperconnect.github.io/feed.xml" htmlUrl="https://hyperconnect.github.io/"/>
             <outline type="rss" text="Harfang's Perch" title="Harfang's Perch" xmlUrl="https://harfangk.github.io/feed_ko.xml" htmlUrl="https://harfangk.github.io/"/>
             <outline type="rss" text="Sysinternals Site Discussion" title="Sysinternals Site Discussion" xmlUrl="http://blogs.technet.com/b/sysinternals/rss.aspx" htmlUrl="https://docs.microsoft.com/archive/blogs/sysinternals/feed.xml"/>
@@ -870,18 +892,20 @@
             <outline type="rss" text="Maching Learning 덕질" title="Maching Learning 덕질" xmlUrl="http://mlduck.tistory.com/rss" htmlUrl="https://mlduck.tistory.com/"/>
             <outline type="rss" text="컬리 기술 블로그" title="컬리 기술 블로그" xmlUrl="http://thefarmersfront.github.io/feed.xml" htmlUrl="http://thefarmersfront.github.io/"/>
             <outline type="rss" text="Coupang technology blog" title="Coupang technology blog" xmlUrl="https://medium.com/feed/coupang-tech" htmlUrl="https://medium.com/coupang-engineering?source=rss----fb028911af07---4"/>
+            <outline type="rss" text="BlaCk_Log" title="BlaCk_Log" xmlUrl="https://black7375.tistory.com/rss" htmlUrl="https://black7375.tistory.com/"/>
             <outline type="rss" text="Sense J의 잡다구리한 이야기들...." title="Sense J의 잡다구리한 이야기들...." xmlUrl="http://sjeiz.tistory.com/rss" htmlUrl="https://sjeiz.tistory.com/"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://v2.velog.io/rss/owen1025" htmlUrl="https://velog.io/"/>
             <outline type="rss" text="" title="" xmlUrl="https://taeoh-kim.github.io/index.xml" htmlUrl="https://taeoh-kim.github.io/"/>
             <outline type="rss" text="박정규 bagjunggyu 님의 블로그" title="박정규 bagjunggyu 님의 블로그" xmlUrl="http://bagjunggyu.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://bagjunggyu.blogspot.com/"/>
             <outline type="rss" text="$IC’s LAB - Medium" title="$IC’s LAB - Medium" xmlUrl="https://medium.com/feed/ics-lab" htmlUrl="https://medium.com/ics-lab?source=rss----fc2e8836413e---4"/>
             <outline type="rss" text="John Millikin" title="John Millikin" xmlUrl="https://john-millikin.com/changes.xml" htmlUrl="https://john-millikin.com"/>
+            <outline type="rss" text="안드로메다에서 온 블로그" title="안드로메다에서 온 블로그" xmlUrl="https://blog.andromer.com/rss" htmlUrl="https://blog.andromer.com/"/>
             <outline type="rss" text=" THINK FREE" title=" THINK FREE" xmlUrl="http://think.golbin.net/rss" htmlUrl="http://think.golbin.net/"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@hersheythings" htmlUrl="https://medium.com/@hersheythings?source=rss-b48dccefc12a------2"/>
             <outline type="rss" text="Stories by Jooyung Han (한주영) on Medium" title="Stories by Jooyung Han (한주영) on Medium" xmlUrl="https://medium.com/feed/@jooyunghan" htmlUrl="https://medium.com/@jooyunghan?source=rss-ad1e00b32047------2"/>
             <outline type="rss" text="Intelligent IF" title="Intelligent IF" xmlUrl="http://markov.tistory.com/rss" htmlUrl="http://markov.tistory.com/"/>
             <outline type="rss" text="이수홍" title="이수홍" xmlUrl="https://brunch.co.kr/rss/@@so6" htmlUrl="https://brunch.co.kr/@@so6"/>
-            <outline type="rss" text="Delivery Tech Korea — 요기요&amp;배달통 기술블로그" title="Delivery Tech Korea — 요기요&amp;배달통 기술블로그" xmlUrl="https://medium.com/feed/deliverytechkorea" htmlUrl="https://medium.com/deliverytechkorea?source=rss----c1b33ccbbc42---4"/>
+            <outline type="rss" text="Delivery Tech Korea — 요기요&amp;배달통 기술블로그" title="Delivery Tech Korea — 요기요&amp;배달통 기술블로그" xmlUrl="https://medium.com/feed/deliverytechkorea" htmlUrl="https://techblog.yogiyo.co.kr?source=rss----c1b33ccbbc42---4"/>
             <outline type="rss" text="A Restless Engineer" title="A Restless Engineer" xmlUrl="http://echopedia.tumblr.com/rss" htmlUrl="https://echopedia.tumblr.com/"/>
             <outline type="rss" text="Guruble" title="Guruble" xmlUrl="http://guruble.com/?feed=rss2" htmlUrl="http://guruble.com"/>
             <outline type="rss" text="김윤수의 이상계를 꿈꾸며" title="김윤수의 이상계를 꿈꾸며" xmlUrl="http://feeds.feedburner.com/yoonsookim" htmlUrl="https://yesarang.tistory.com/"/>
@@ -933,15 +957,18 @@
             <outline type="rss" text="mingrammer" title="mingrammer" xmlUrl="https://mingrammer.com/feed.xml" htmlUrl="https://mingrammer.com/"/>
             <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="http://www.martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com"/>
             <outline type="rss" text="Wookje blog" title="Wookje blog" xmlUrl="http://wookje.dance/rss/" htmlUrl="http://wookje.dance/"/>
+            <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@doomydoomydooms" htmlUrl="https://medium.com/@doomydoomydooms?source=rss-724c10804dc5------2"/>
             <outline type="rss" text="QwazLab" title="QwazLab" xmlUrl="https://blog.qwaz.io/feed" htmlUrl="https://blog.qwaz.io"/>
             <outline type="rss" text="번역 블로그" title="번역 블로그" xmlUrl="http://masterfarseer.blogspot.com/feeds/posts/default" htmlUrl="http://masterfarseer.blogspot.com/"/>
             <outline type="rss" text="뱅크샐러드 블로그" title="뱅크샐러드 블로그" xmlUrl="https://blog.banksalad.com/rss.xml" htmlUrl="https://blog.banksalad.com"/>
             <outline type="rss" text="당근마켓 팀블로그 - Medium" title="당근마켓 팀블로그 - Medium" xmlUrl="https://medium.com/feed/n42-corp" htmlUrl="https://medium.com/daangn?source=rss----4505f82a2dbd---4"/>
             <outline type="rss" text="coolspeed" title="coolspeed" xmlUrl="https://coolspeed.wordpress.com/feed/" htmlUrl="https://coolspeed.wordpress.com"/>
             <outline type="rss" text="GOOD to GREAT" title="GOOD to GREAT" xmlUrl="http://goodtogreate.tistory.com/rss" htmlUrl="https://goodtogreate.tistory.com/"/>
+            <outline type="rss" text="Morgenrøde" title="Morgenrøde" xmlUrl="https://ryanking13.github.io///feed.xml" htmlUrl="https://ryanking13.github.io/"/>
             <outline type="rss" text="Lee, Suho - Geekly Programmer" title="Lee, Suho - Geekly Programmer" xmlUrl="https://blog.hanaoto.me/feed.xml" htmlUrl="https://blog.hanaoto.me/"/>
             <outline type="rss" text="꿈 많은 개발자가 되자 - Taehwan" title="꿈 많은 개발자가 되자 - Taehwan" xmlUrl="http://thdev.tech/feed.xml" htmlUrl="https://thdev.tech"/>
             <outline type="rss" text="JBEE.io" title="JBEE.io" xmlUrl="https://jbee.io/rss.xml" htmlUrl="https://jbee.io"/>
+            <outline type="rss" text="밀당 팀블로그" title="밀당 팀블로그" xmlUrl="https://medium.com/feed/mildang" htmlUrl="https://medium.com/mildang?source=rss----d62cbfa34aea---4"/>
             <outline type="rss" text="백명석" title="백명석" xmlUrl="https://brunch.co.kr/rss/@@2xm" htmlUrl="https://brunch.co.kr/@@2xm"/>
             <outline type="rss" text="슭의 개발 블로그" title="슭의 개발 블로그" xmlUrl="http://blog.seulgi.kim/feeds/posts/default" htmlUrl="https://blog.seulgi.kim/"/>
             <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@riiidtechblog" htmlUrl="https://medium.com/@riiidtechblog?source=rss-ec51238c461b------2"/>
@@ -965,6 +992,7 @@
             <outline type="rss" text="Seokho's Dev. History" title="Seokho's Dev. History" xmlUrl="https://devsdk.github.io/feed.xml" htmlUrl="https://devsdk.github.iohttps://devsdk.github.io/"/>
             <outline type="rss" text="컴퓨터 vs 책" title="컴퓨터 vs 책" xmlUrl="http://feeds.feedburner.com/blogspot/ASpE" htmlUrl="http://jhrogue.blogspot.com/"/>
             <outline type="rss" text="NUXINFO" title="NUXINFO" xmlUrl="https://www.nuxinfo.net/feed/" htmlUrl="https://www.nuxinfo.net"/>
+            <outline type="rss" text="Pega Devlog" title="Pega Devlog" xmlUrl="https://jehyunlee.github.io/rss2.xml" htmlUrl="https://jehyunlee.github.io/"/>
             <outline type="rss" text="커널리스트" title="커널리스트" xmlUrl="http://blog.rss.naver.com/gloryo.xml" htmlUrl="http://blog.naver.com/gloryo"/>
             <outline type="rss" text="HEROPY" title="HEROPY" xmlUrl="https://heropy.blog/atom.xml" htmlUrl="https://heropy.blog/"/>
             <outline type="rss" text="rhostem.github.io" title="rhostem.github.io" xmlUrl="https://rhostem.github.io/rss.xml" htmlUrl="https://rhostem.github.io"/>
@@ -997,7 +1025,7 @@
             <outline type="rss" text="blog.choyoungil.com" title="blog.choyoungil.com" xmlUrl="http://blog.choyoungil.com/feed/" htmlUrl="https://blog.choyoungil.com"/>
             <outline type="rss" text="Kendrick's Blog" title="Kendrick's Blog" xmlUrl="http://blog.sonim1.com/rss" htmlUrl="https://blog.sonim1.com/"/>
             <outline type="rss" text="Monologue" title="Monologue" xmlUrl="http://changsuk.me/?feed=rss2" htmlUrl="http://changsuk.me"/>
-            <outline type="rss" text="Matthew Chang" title="Matthew Chang" xmlUrl="https://brunch.co.kr/rss/@@GEd" htmlUrl="https://brunch.co.kr/@@GEd"/>
+            <outline type="rss" text="메튜" title="메튜" xmlUrl="https://brunch.co.kr/rss/@@GEd" htmlUrl="https://brunch.co.kr/@@GEd"/>
             <outline type="rss" text="Daum 개발자 네트워크" title="Daum 개발자 네트워크" xmlUrl="http://dna.daum.net/feed" htmlUrl="http://daumdna.tistory.com/"/>
             <outline type="rss" text="IT'S UNI TIME" title="IT'S UNI TIME" xmlUrl="http://uni2u.tistory.com/rss" htmlUrl="https://uni2u.tistory.com/"/>
             <outline type="rss" text="nthought" title="nthought" xmlUrl="http://bahnsville.tistory.com/rss" htmlUrl="https://bahnsville.tistory.com/"/>
@@ -1016,6 +1044,7 @@
             <outline type="rss" text="Kevin's Blog" title="Kevin's Blog" xmlUrl="http://blog.lckymn.com/feed/" htmlUrl="http://blog.kevinlee.io"/>
             <outline type="rss" text="charsyam님의 블로그" title="charsyam님의 블로그" xmlUrl="http://blog.rss.naver.com/charsyam.xml" htmlUrl="http://blog.naver.com/charsyam"/>
             <outline type="rss" text="EminentStar's Dev Wiki" title="EminentStar's Dev Wiki" xmlUrl="http://eminentstar.tistory.com/rss" htmlUrl="https://eminentstar.tistory.com/"/>
+            <outline type="rss" text="Stories by Jung Han on Medium" title="Stories by Jung Han on Medium" xmlUrl="https://medium.com/feed/@junghan92" htmlUrl="https://medium.com/@junghan92?source=rss-4f4a02f8f2cf------2"/>
             <outline type="rss" text="Sunhyoup’s Story - Medium" title="Sunhyoup’s Story - Medium" xmlUrl="https://medium.com/feed/sunhyoups-story" htmlUrl="https://medium.com/sunhyoups-story?source=rss----4562c3ad55c0---4"/>
             <outline type="rss" text="Just hack'em" title="Just hack'em" xmlUrl="http://justhackem.wordpress.com/feed/" htmlUrl="https://justhackem.wordpress.com"/>
             <outline type="rss" text="Like a tree, like a breeze." title="Like a tree, like a breeze." xmlUrl="http://senxation.me/rss" htmlUrl="https://senxation.me/"/>
@@ -1039,6 +1068,8 @@
             <outline type="rss" text="IYD - Everything Inside Your Device" title="IYD - Everything Inside Your Device" xmlUrl="http://udteam.tistory.com/rss" htmlUrl="https://udteam.tistory.com/"/>
             <outline type="rss" text="user's Blog!" title="user's Blog!" xmlUrl="http://lidlesseye.net/feed/" htmlUrl="http://lidlesseye.net"/>
             <outline type="rss" text="토스테크" title="토스테크" xmlUrl="https://toss.tech/rss.xml" htmlUrl="https://toss.tech"/>
+            <outline type="rss" text="밥먹는 개발자" title="밥먹는 개발자" xmlUrl="https://dining-developer.tistory.com/rss" htmlUrl="https://dining-developer.tistory.com/"/>
+            <outline type="rss" text="Simon Park" title="Simon Park" xmlUrl="https://parksb.github.io/feed.xml" htmlUrl="https://parksb.github.io/"/>
             <outline type="rss" text="ASH84" title="ASH84" xmlUrl="http://ash84.net/rss/" htmlUrl="http://ash84.net/"/>
             <outline type="rss" text="ZeroCho Blog" title="ZeroCho Blog" xmlUrl="https://www.zerocho.com/api/rss.xml" htmlUrl="https://www.zerocho.com"/>
             <outline type="rss" text="아겔-_-의 뻘로깅 시즌#3" title="아겔-_-의 뻘로깅 시즌#3" xmlUrl="http://ageldama.blogspot.kr//feeds/posts/default" htmlUrl="http://ageldama.blogspot.com/"/>
@@ -1051,6 +1082,7 @@
             <outline type="rss" text="Uniquegood" title="Uniquegood" xmlUrl="https://medium.com/feed/uniquegood" htmlUrl="https://medium.com/uniquegood?source=rss----6644011241bd---4"/>
             <outline type="rss" text="0xABCDEF" title="0xABCDEF" xmlUrl="http://blog.0xabcdef.com/rss" htmlUrl="http://blog.0xabcdef.com"/>
             <outline type="rss" text="아겔로그" title="아겔로그" xmlUrl="https://ageldama.github.io/index.xml" htmlUrl="https://ageldama.github.io/"/>
+            <outline type="rss" text="Hadong Devlog" title="Hadong Devlog" xmlUrl="https://metleeha.tistory.com/rss" htmlUrl="https://metleeha.tistory.com/"/>
             <outline type="rss" text="mingrammer's note" title="mingrammer's note" xmlUrl="https://mingrammer.com/index.xml" htmlUrl="https://mingrammer.com/"/>
             <outline type="rss" text="Will Be Something" title="Will Be Something" xmlUrl="http://willbesomething.com/?feed=rss2" htmlUrl="http://willbesomething.com"/>
             <outline type="rss" text="Sangkon Han(SigmaDream, sd or SD)" title="Sangkon Han(SigmaDream, sd or SD)" xmlUrl="http://www.sangkon.com/rss/" htmlUrl="https://www.sangkon.com/"/>
@@ -1063,7 +1095,7 @@
         <outline text="보안 - 국내" title="보안 - 국내">
             <outline type="rss" text="ASEC Threat Research &amp; Response blog" title="ASEC Threat Research &amp; Response blog" xmlUrl="http://asec.ahnlab.com/rss" htmlUrl="https://asec.ahnlab.com/"/>
             <outline type="rss" text="Shall We Play A Game?" title="Shall We Play A Game?" xmlUrl="http://daehee87.tistory.com/rss" htmlUrl="https://daehee87.tistory.com/"/>
-            <outline type="rss" text="Analyzing bot" title="Analyzing bot" xmlUrl="http://nopsled.tistory.com/rss" htmlUrl="https://nopsled.tistory.com/"/>
+            <outline type="rss" text="annyoung" title="annyoung" xmlUrl="http://nopsled.tistory.com/rss" htmlUrl="https://nopsled.tistory.com/"/>
             <outline type="rss" text="Recent Commits to malware-samples:master" title="Recent Commits to malware-samples:master" xmlUrl="https://github.com/InQuest/malware-samples/commits/master.atom" htmlUrl="https://github.com/InQuest/malware-samples/commits/master"/>
             <outline type="rss" text="To Be Superlative Leader" title="To Be Superlative Leader" xmlUrl="http://nocode.tistory.com/rss" htmlUrl="http://nocode.tistory.com/"/>
             <outline type="rss" text="My Hack3d St0ry" title="My Hack3d St0ry" xmlUrl="http://hacked.tistory.com/rss" htmlUrl="http://hacked.tistory.com/"/>
@@ -1073,7 +1105,6 @@
             <outline type="rss" text="보안쟁이-회사원의 일상" title="보안쟁이-회사원의 일상" xmlUrl="http://sun2day.tistory.com/rss" htmlUrl="https://sun2day.tistory.com/"/>
             <outline type="rss" text="CyKor" title="CyKor" xmlUrl="http://cykor.kr/?feed=rss2" htmlUrl="https://cykor.kr"/>
             <outline type="rss" text="인터넷과 보안" title="인터넷과 보안" xmlUrl="http://viruslab.tistory.com/rss" htmlUrl="https://viruslab.tistory.com/"/>
-            <outline type="rss" text="การ เล่น บิงโก ให้ ชนะ" title="การ เล่น บิงโก ให้ ชนะ" xmlUrl="http://moonslab.com/rss" htmlUrl="http://www.moonslab.com"/>
             <outline type="rss" text="For-MD" title="For-MD" xmlUrl="http://for-md.org/?feed=rss2" htmlUrl="http://for-md.org"/>
             <outline type="rss" text="Forensic-Proof" title="Forensic-Proof" xmlUrl="http://forensic-proof.com/feed" htmlUrl="http://forensic-proof.com"/>
             <outline type="rss" text="RSS feed for joohk10 Blog" title="RSS feed for joohk10 Blog" xmlUrl="http://blog.rss.naver.com/joohk10.xml" htmlUrl="http://blog.naver.com/joohk10"/>
@@ -1140,7 +1171,7 @@
             <outline type="rss" text="Plainbit Co., Ltd." title="Plainbit Co., Ltd." xmlUrl="http://blog.plainbit.co.kr/feed" htmlUrl="http://blog.plainbit.co.kr"/>
             <outline type="rss" text="뎅꽁이의 보안창고" title="뎅꽁이의 보안창고" xmlUrl="http://boanchanggo.tistory.com/rss" htmlUrl="https://boanchanggo.tistory.com/"/>
             <outline type="rss" text="1 + 1 = 1" title="1 + 1 = 1" xmlUrl="http://flycrow.tistory.com/rss" htmlUrl="https://flycrow.tistory.com/"/>
-            <outline type="rss" text="Newbie Hacker" title="Newbie Hacker" xmlUrl="http://bob3rdnewbie.tistory.com/rss" htmlUrl="https://bob3rdnewbie.tistory.com/"/>
+            <outline type="rss" text="뉴비에욤" title="뉴비에욤" xmlUrl="http://bob3rdnewbie.tistory.com/rss" htmlUrl="https://bob3rdnewbie.tistory.com/"/>
             <outline type="rss" text="Zer0 day" title="Zer0 day" xmlUrl="http://zer0day.tistory.com/rss" htmlUrl="http://zer0day.tistory.com/"/>
             <outline type="rss" text="Hacks" title="Hacks" xmlUrl="http://push0ebp.tistory.com/rss" htmlUrl="https://push0ebp.tistory.com/"/>
             <outline type="rss" text="do9dark" title="do9dark" xmlUrl="http://blog.do9.kr/rss" htmlUrl="https://blog.do9.kr/"/>
@@ -1283,7 +1314,7 @@
             <outline type="rss" text="cdor1's lab" title="cdor1's lab" xmlUrl="http://cdor1.tistory.com/rss" htmlUrl="https://cdor1.tistory.com/"/>
             <outline type="rss" text="what? why? how?" title="what? why? how?" xmlUrl="http://rss.egloos.com/blog/lucid7" htmlUrl="http://lucid7.egloos.com"/>
             <outline type="rss" text="redalert.kr" title="redalert.kr" xmlUrl="http://redalert.kr/rss" htmlUrl="http://redalert.kr/"/>
-            <outline type="rss" text="Seoul Legal Hackers – LexBlog" title="Seoul Legal Hackers – LexBlog" xmlUrl="https://www.lexblog.com/site/seoul-legal-hackers/feed/" htmlUrl="https://www.lexblog.com"/>
+            <outline type="rss" text="Seoul Legal Hackers Archives - LexBlog" title="Seoul Legal Hackers Archives - LexBlog" xmlUrl="https://www.lexblog.com/site/seoul-legal-hackers/feed/" htmlUrl="https://www.lexblog.com"/>
             <outline type="rss" text="Hyunmini" title="Hyunmini" xmlUrl="http://hyunmini.tistory.com/rss" htmlUrl="https://hyunmini.tistory.com/"/>
             <outline type="rss" text="malwareL4B" title="malwareL4B" xmlUrl="http://malwarel4b.blogspot.com/feeds/posts/default" htmlUrl="http://malwarel4b.blogspot.com/"/>
             <outline type="rss" text="오정욱의 블로그" title="오정욱의 블로그" xmlUrl="https://ohjeongwook.com/feed/" htmlUrl="https://ohjeongwook.wpcomstaging.com"/>
@@ -1339,6 +1370,7 @@
             <outline type="rss" text="Security Insight" title="Security Insight" xmlUrl="http://taeyoun795.blog.me/rss" htmlUrl="http://blog.naver.com/taeyoun795"/>
             <outline type="rss" text="댕이댕이의 Network 블로그!" title="댕이댕이의 Network 블로그!" xmlUrl="http://stop2y.blog.me/rss" htmlUrl="http://blog.naver.com/stop2y"/>
             <outline type="rss" text="Stay hungry, Stay foolish." title="Stay hungry, Stay foolish." xmlUrl="http://zairo.tistory.com/rss" htmlUrl="https://blog.zairo.kr/"/>
+            <outline type="rss" text="모두의 근삼이" title="모두의 근삼이" xmlUrl="https://ykarma1996.tistory.com/rss" htmlUrl="https://ykarma1996.tistory.com/"/>
             <outline type="rss" text="f-NGS Labs" title="f-NGS Labs" xmlUrl="http://fngs.kr/feed" htmlUrl="http://fngs.kr"/>
             <outline type="rss" text="hacker dakuo" title="hacker dakuo" xmlUrl="http://dakuo.tistory.com/rss" htmlUrl="https://dakuo.tistory.com/"/>
             <outline type="rss" text="Hack My Mind" title="Hack My Mind" xmlUrl="http://linkc.tistory.com/rss" htmlUrl="http://linkc.tistory.com/"/>
@@ -1374,7 +1406,7 @@
             <outline type="rss" text="osiris's blog" title="osiris's blog" xmlUrl="http://mins4416.tistory.com/rss" htmlUrl="https://mins4416.tistory.com/"/>
             <outline type="rss" text="삽질인생" title="삽질인생" xmlUrl="http://muhan56.tistory.com/rss" htmlUrl="https://muhan56.tistory.com/"/>
             <outline type="rss" text="KC's blog" title="KC's blog" xmlUrl="http://zomo.herokuapp.com/atom.xml" htmlUrl="http://zomo.heroku.com/"/>
-            <outline type="rss" text="좋은 기억은 추억으로, 나쁜 기억으로 경험으로" title="좋은 기억은 추억으로, 나쁜 기억으로 경험으로" xmlUrl="http://blog.rss.naver.com/wj2542.xml" htmlUrl="http://blog.naver.com/wj2542"/>
+            <outline type="rss" text="야호" title="야호" xmlUrl="http://blog.rss.naver.com/wj2542.xml" htmlUrl="http://blog.naver.com/wj2542"/>
             <outline type="rss" text="디스커버리" title="디스커버리" xmlUrl="http://edrm.tistory.com/rss" htmlUrl="https://edrm.tistory.com/"/>
             <outline type="rss" text="임준오의 블로그" title="임준오의 블로그" xmlUrl="https://imjuno.com/feed/" htmlUrl="https://imjuno.com"/>
             <outline type="rss" text="Recent Commits to exploitation:master" title="Recent Commits to exploitation:master" xmlUrl="https://github.com/vngkv123/exploitation/commits/master.atom" htmlUrl="https://github.com/vngkv123/exploitation/commits/master"/>
@@ -1412,7 +1444,7 @@
             <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="http://feeds.gawker.com/lifehacker/vip" htmlUrl="https://lifehacker.com"/>
             <outline type="rss" text="Polygon - Full" title="Polygon - Full" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/"/>
             <outline type="rss" text="Techmeme" title="Techmeme" xmlUrl="http://www.techmeme.com/feed.xml" htmlUrl="http://www.techmeme.com/"/>
-            <outline type="rss" text="～MPzero～　[コスプレイベント画像]Nikon D5 &amp; Z6ii" title="～MPzero～　[コスプレイベント画像]Nikon D5 &amp; Z6ii" xmlUrl="http://mpzerocos.exblog.jp/index.xml" htmlUrl="http://mpzerocos.exblog.jp"/>
+            <outline type="rss" text="～MPzero～　[コスプレイベント画像]Nikon Z9 &amp; Z6ii" title="～MPzero～　[コスプレイベント画像]Nikon Z9 &amp; Z6ii" xmlUrl="http://mpzerocos.exblog.jp/index.xml" htmlUrl="http://mpzerocos.exblog.jp"/>
             <outline type="rss" text="The Next Web" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" htmlUrl="https://thenextweb.com"/>
             <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="http://feeds.gawker.com/kotaku/vip" htmlUrl="https://kotaku.com"/>
             <outline type="rss" text="RSS_전체기사" title="RSS_전체기사" xmlUrl="http://rss.kbench.com/kbench.xml" htmlUrl="http://rss.kbench.com/kbench.xml"/>
@@ -1456,7 +1488,7 @@
             <outline type="rss" text="시장을 보는 눈" title="시장을 보는 눈" xmlUrl="http://blog.rss.naver.com/hong8706.xml" htmlUrl="http://blog.naver.com/hong8706"/>
             <outline type="rss" text="juliuschun" title="juliuschun" xmlUrl="https://juliuschun.com/feed/" htmlUrl="https://juliuschun.com"/>
             <outline type="rss" text="Isaac의 생각저장 창고" title="Isaac의 생각저장 창고" xmlUrl="http://isaacinseoul.wordpress.com/feed/" htmlUrl="https://isaacinseoul.com"/>
-            <outline type="rss" text="※ KoreaViews.com ※" title="※ KoreaViews.com ※" xmlUrl="http://choonsik.blogspot.com/feeds/posts/default" htmlUrl="https://choonsik.blogspot.com/"/>
+            <outline type="rss" text="※ KoreaViews ※" title="※ KoreaViews ※" xmlUrl="http://choonsik.blogspot.com/feeds/posts/default" htmlUrl="https://choonsik.blogspot.com/"/>
             <outline type="rss" text="이창양 교수의 경제산책" title="이창양 교수의 경제산책" xmlUrl="http://drcylee.blog.me/rss" htmlUrl="http://blog.naver.com/drcylee"/>
             <outline type="rss" text="The Golden Times" title="The Golden Times" xmlUrl="http://goldentimes.tistory.com/rss" htmlUrl="https://goldentimes.tistory.com/"/>
             <outline type="rss" text="Gapfiller's Depository" title="Gapfiller's Depository" xmlUrl="http://rss.egloos.com/blog/gapfiller" htmlUrl="http://gapfiller.egloos.com"/>
@@ -1468,7 +1500,7 @@
             <outline type="rss" text="Project Syndicate RSS" title="Project Syndicate RSS" xmlUrl="http://www.project-syndicate.org/rss" htmlUrl="https://www.project-syndicate.org/rss"/>
             <outline type="rss" text="Economy Insight" title="Economy Insight" xmlUrl="http://www.economyinsight.co.kr/rss/allArticle.xml" htmlUrl="http://www.economyinsight.co.kr"/>
             <outline type="rss" text="Got to Be Real" title="Got to Be Real" xmlUrl="http://blog.rss.naver.com/qlffl83.xml" htmlUrl="http://blog.naver.com/qlffl83"/>
-            <outline type="rss" text="혼자 쓰는 블로그" title="혼자 쓰는 블로그" xmlUrl="http://blog.rss.naver.com/cto_hwangga.xml" htmlUrl="http://blog.naver.com/cto_hwangga"/>
+            <outline type="rss" text="아카이브" title="아카이브" xmlUrl="http://blog.rss.naver.com/cto_hwangga.xml" htmlUrl="http://blog.naver.com/cto_hwangga"/>
             <outline type="rss" text="Second Coming" title="Second Coming" xmlUrl="http://blog.rss.naver.com/breitner.xml" htmlUrl="http://blog.naver.com/breitner"/>
             <outline type="rss" text="Economics of almost everything" title="Economics of almost everything" xmlUrl="http://seoul.blogspot.com/feeds/posts/default" htmlUrl="http://seoul.blogspot.com/"/>
             <outline type="rss" text="경연" title="경연" xmlUrl="http://econreality.blogspot.com/feeds/posts/default" htmlUrl="http://econreality.blogspot.com/"/>
@@ -1505,7 +1537,7 @@
             <outline type="rss" text="ESET ThreatBlog" title="ESET ThreatBlog" xmlUrl="http://feeds.feedburner.com/eset/blog" htmlUrl="https://www.welivesecurity.com"/>
             <outline type="rss" text="Security Blog" title="Security Blog" xmlUrl="https://www.bluecoat.com/security/rss" htmlUrl="https://www.bluecoat.com/security/security-blog?tid=All"/>
             <outline type="rss" text="Panda Security Mediacenter" title="Panda Security Mediacenter" xmlUrl="http://www.pandasecurity.com/mediacenter/feed/" htmlUrl="https://www.pandasecurity.com/en/mediacenter"/>
-            <outline type="rss" text="NirBlog" title="NirBlog" xmlUrl="http://feeds.feedburner.com/Nirblog" htmlUrl="http://blog.nirsoft.net"/>
+            <outline type="rss" text="NirBlog" title="NirBlog" xmlUrl="http://feeds.feedburner.com/Nirblog" htmlUrl="https://blog.nirsoft.net"/>
             <outline type="rss" text="Practical Digital Forensics" title="Practical Digital Forensics" xmlUrl="http://practicaldigitalforensics.blogspot.com/feeds/posts/default" htmlUrl="http://practicaldigitalforensics.blogspot.com/"/>
             <outline type="rss" text="viaForensics" title="viaForensics" xmlUrl="https://viaforensics.com/feed/" htmlUrl="https://www.nowsecure.com"/>
             <outline type="rss" text="Cheeky4n6Monkey - Learning About Digital Forensics" title="Cheeky4n6Monkey - Learning About Digital Forensics" xmlUrl="http://cheeky4n6monkey.blogspot.com/feeds/posts/default" htmlUrl="http://cheeky4n6monkey.blogspot.com/"/>
@@ -1529,7 +1561,7 @@
             <outline type="rss" text="#dfir | Scoop.it" title="#dfir | Scoop.it" xmlUrl="http://www.scoop.it/t/dfir/rss.xml" htmlUrl="http://www.scoop.it/t/dfir"/>
             <outline type="rss" text="for(ensik){blog;}" title="for(ensik){blog;}" xmlUrl="http://computer.forensikblog.de/atom.xml" htmlUrl="https://computer.forensikblog.de/"/>
             <outline type="rss" text="SANS Internet Storm Center, InfoCON" title="SANS Internet Storm Center, InfoCON" xmlUrl="http://iscxml.sans.org/rssfeed.xml" htmlUrl="https://isc.sans.edu"/>
-            <outline type="rss" text="X-Ways Forensics Practitioner's Guide" title="X-Ways Forensics Practitioner's Guide" xmlUrl="https://xwaysforensics.wordpress.com/feed/" htmlUrl="https://xwaysforensics.wordpress.com"/>
+            <outline type="rss" text="X-Ways Forensics Practitioner's Guide" title="X-Ways Forensics Practitioner's Guide" xmlUrl="https://xwaysforensics.wordpress.com/feed/" htmlUrl="https://xwaysguide.com"/>
             <outline type="rss" text="cmdLabs" title="cmdLabs" xmlUrl="http://blog.cmdlabs.com/feed/"/>
             <outline type="rss" text="CYREN Blog RSS Feed" title="CYREN Blog RSS Feed" xmlUrl="http://feeds.feedburner.com/cyren/pnbj" htmlUrl="http://www.cyren.com/"/>
             <outline type="rss" text="Tyranid's Lair" title="Tyranid's Lair" xmlUrl="https://www.blogger.com/feeds/4304739697716191998/posts/default" htmlUrl="http://www.tiraniddo.dev/"/>
@@ -1650,7 +1682,7 @@
             <outline type="rss" text="HOTforSecurity" title="HOTforSecurity" xmlUrl="http://feeds.feedburner.com/HOTforSecurity" htmlUrl="https://hotforsecurity.bitdefender.com"/>
             <outline type="rss" text="Pragmatic Forensics." title="Pragmatic Forensics." xmlUrl="http://ykx100.tumblr.com/rss" htmlUrl="https://ykx100.tumblr.com/"/>
             <outline type="rss" text="Packet Storm Security" title="Packet Storm Security" xmlUrl="http://packetstormsecurity.org/headlines.xml" htmlUrl="https://packetstormsecurity.com/"/>
-            <outline type="rss" text="pentestmonkey" title="pentestmonkey" xmlUrl="http://feeds.feedburner.com/pentestmonkey" htmlUrl="http://pentestmonkey.net"/>
+            <outline type="rss" text="pentestmonkey" title="pentestmonkey" xmlUrl="http://feeds.feedburner.com/pentestmonkey" htmlUrl="https://pentestmonkey.net"/>
             <outline type="rss" text="Digitaalonderzoeker.nl :: RSS Feed." title="Digitaalonderzoeker.nl :: RSS Feed." xmlUrl="http://digitaalonderzoeker.nl/include/nieuws/rss.php"/>
             <outline type="rss" text="Forensic Pagefile" title="Forensic Pagefile" xmlUrl="http://forensicpagefile.blogspot.com/feeds/posts/default" htmlUrl="http://forensicpagefile.blogspot.com/"/>
             <outline type="rss" text="Quick Heal Blog: Cyber Security News, Hacking News, Internet Security" title="Quick Heal Blog: Cyber Security News, Hacking News, Internet Security" xmlUrl="http://blogs.quickheal.com/wp/feed/" htmlUrl="http://blogarchive.quickheal.com/wp"/>
@@ -1684,7 +1716,7 @@
             <outline type="rss" text="SANS Computer Forensics, Investigation, and Response" title="SANS Computer Forensics, Investigation, and Response" xmlUrl="http://computer-forensics.sans.org/blog/feed/rss/" htmlUrl="http://digital-forensics.sans.org/blog"/>
             <outline type="rss" text="Ride The Lightning" title="Ride The Lightning" xmlUrl="http://feeds.feedburner.com/sensei" htmlUrl="https://ridethelightning.senseient.com/"/>
             <outline type="rss" text="AVG | Top Threats" title="AVG | Top Threats" xmlUrl="http://feeds.avg.com/avg_top_threats" htmlUrl="https://now.avg.com"/>
-            <outline type="rss" text="Dennis Yurichev" title="Dennis Yurichev" xmlUrl="http://yurichev.com/blog/rss.xml" htmlUrl="https://yurichev.com/blog/"/>
+            <outline type="rss" text="Dennis Yurichev's blog" title="Dennis Yurichev's blog" xmlUrl="http://yurichev.com/blog/rss.xml" htmlUrl="https://yurichev.org/"/>
             <outline type="rss" text="Digital Detective Blog - Digital Forensic Analysis and Data Recovery" title="Digital Detective Blog - Digital Forensic Analysis and Data Recovery" xmlUrl="http://wordpress.bladeforensics.com/?feed=rss2" htmlUrl="http://wordpress.bladeforensics.com"/>
         </outline>
         <outline text="전자공학" title="전자공학">
@@ -1708,7 +1740,7 @@
             <outline type="rss" text="Sprites mods" title="Sprites mods" xmlUrl="http://spritesmods.com/rss.php" htmlUrl="https://spritesmods.com"/>
             <outline type="rss" text="Hack A Day" title="Hack A Day" xmlUrl="http://www.hackaday.com/rss.xml" htmlUrl="https://hackaday.com"/>
             <outline type="rss" text="Internet de las Cosas | o las cosas conectadas a internet…" title="Internet de las Cosas | o las cosas conectadas a internet…" xmlUrl="http://www.internetdelascosas.cl/feed/" htmlUrl="https://www.internetdelascosas.cl"/>
-            <outline type="rss" text="Circuits At Home" title="Circuits At Home" xmlUrl="http://www.circuitsathome.com/feed" htmlUrl="https://www.circuitsathome.com"/>
+            <outline type="rss" text="Circuits At Home" title="Circuits At Home" xmlUrl="http://www.circuitsathome.com/feed" htmlUrl="https://circuitsathome.com"/>
             <outline type="rss" text="Res Publica Non Dominetur - カルマン" title="Res Publica Non Dominetur - カルマン" xmlUrl="http://feeds.feedburner.com/ResPublicaNonDominetur" htmlUrl="http://karman.cc/blog"/>
             <outline type="rss" text="hilbert-space" title="hilbert-space" xmlUrl="http://hilbert-space.de/?feed=rss2" htmlUrl="http://hilbert-space.de"/>
             <outline type="rss" text="JeremyBlum.com" title="JeremyBlum.com" xmlUrl="http://www.jeremyblum.com/feed/" htmlUrl="https://www.jeremyblum.com"/>
@@ -1828,8 +1860,8 @@
             <outline type="rss" text="Fonts In Use" title="Fonts In Use" xmlUrl="http://feeds.feedburner.com/FontsInUse" htmlUrl="https://fontsinuse.com"/>
             <outline type="rss" text="52 Weeks of UX" title="52 Weeks of UX" xmlUrl="http://feeds.feedburner.com/52WeeksOfUx" htmlUrl="https://52weeksofux.com/"/>
             <outline type="rss" text="Design Staff" title="Design Staff" xmlUrl="http://feeds.feedburner.com/DesignStaff" htmlUrl="https://library.gv.com?source=rss----dfc85068874c---4"/>
-            <outline type="rss" text="azumbrunnen at iA" title="azumbrunnen at iA" xmlUrl="http://www.azumbrunnen.me/blog/feed/rss2" htmlUrl="http://azumbrunnen.me"/>
-            <outline type="rss" text="Seomood agencja marketingowa" title="Seomood agencja marketingowa" xmlUrl="http://feeds.feedburner.com/cssremix" htmlUrl="https://seomood.pl"/>
+            <outline type="rss" text="azumbrunnen at iA" title="azumbrunnen at iA" xmlUrl="http://www.azumbrunnen.me/blog/feed/rss2" htmlUrl="https://azumbrunnen.me"/>
+            <outline type="rss" text="rapid-enlargement 2022" title="rapid-enlargement 2022" xmlUrl="http://feeds.feedburner.com/cssremix" htmlUrl="https://rapid-enlargement.info/"/>
             <outline type="rss" text="John Martz's Notebook" title="John Martz's Notebook" xmlUrl="http://feeds.feedburner.com/robotjohnny" htmlUrl="https://johnmartz.tumblr.com/"/>
             <outline type="rss" text="Dustin Curtis" title="Dustin Curtis" xmlUrl="http://dustincurtis.com/rss.xml" htmlUrl="http://dustincurtis.com/"/>
             <outline type="rss" text="WeBreakStuff" title="WeBreakStuff" xmlUrl="http://feeds.feedburner.com/webreakstuff/" htmlUrl="http://blog.webreakstuff.com"/>
@@ -1910,6 +1942,7 @@
             <outline type="rss" text="Chincha » Chincha" title="Chincha » Chincha" xmlUrl="http://chincha.co.uk/feed/" htmlUrl="http://chincha.co.uk"/>
             <outline type="rss" text="미디어가이" title="미디어가이" xmlUrl="https://brunch.co.kr/rss/@@QKy" htmlUrl="https://brunch.co.kr/@@QKy"/>
             <outline type="rss" text="셰프뉴스" title="셰프뉴스" xmlUrl="http://chefnews.kr/feed" htmlUrl="http://chefnews.kr"/>
+            <outline type="rss" text="ADHD와 살아가는 생명과학도" title="ADHD와 살아가는 생명과학도" xmlUrl="https://chillyaiba.tistory.com/rss" htmlUrl="https://chillyaiba.tistory.com/"/>
             <outline type="rss" text="사회주의자" title="사회주의자" xmlUrl="http://socialist.kr/feed/" htmlUrl="http://socialist.kr"/>
             <outline type="rss" text="돈을 벌자! Money Never Sleeps!" title="돈을 벌자! Money Never Sleeps!" xmlUrl="http://dollartowon.wordpress.com/feed/" htmlUrl="https://dollartowon.wordpress.com"/>
             <outline type="rss" text="신문과방송" title="신문과방송" xmlUrl="http://blog.rss.naver.com/kpfjra_.xml" htmlUrl="http://blog.naver.com/kpfjra_"/>
@@ -1932,8 +1965,9 @@
             <outline type="rss" text="뿌리의 이글루스" title="뿌리의 이글루스" xmlUrl="http://rss.egloos.com/blog/jampuri" htmlUrl="http://jampuri.egloos.com"/>
             <outline type="rss" text="Synthesis-Based BioFusion Technology Lab » KBoard Integration feed" title="Synthesis-Based BioFusion Technology Lab » KBoard Integration feed" xmlUrl="https://biochemistry.khu.ac.kr/lab/wp-content/plugins/kboard/rss.php" htmlUrl="https://biochemistry.khu.ac.kr/lab"/>
             <outline type="rss" text="정현석변호사" title="정현석변호사" xmlUrl="https://brunch.co.kr/rss/@@1lOa" htmlUrl="https://brunch.co.kr/@@1lOa"/>
-            <outline type="rss" text="Andrew Ahn" title="Andrew Ahn" xmlUrl="http://www.andrewahn.co/feed/" htmlUrl="https://www.andrewahn.co"/>
+            <outline type="rss" text="Andrew Ahn" title="Andrew Ahn" xmlUrl="http://www.andrewahn.co/feed/" htmlUrl="http://www.andrewahn.co"/>
             <outline type="rss" text="Wallel" title="Wallel" xmlUrl="http://wallel.com/rss" htmlUrl="https://wallel.com"/>
+            <outline type="rss" text="Stories by Darkness Of Korea on Medium" title="Stories by Darkness Of Korea on Medium" xmlUrl="https://medium.com/feed/@darkness_of_korea" htmlUrl="https://medium.com/@darkness_of_korea?source=rss-6dcb590475c5------2"/>
             <outline type="rss" text="Fragmentations" title="Fragmentations" xmlUrl="http://silmaluomi.tumblr.com/rss" htmlUrl="https://silmaluomi.tumblr.com/"/>
             <outline type="rss" text="보라쇼" title="보라쇼" xmlUrl="https://brunch.co.kr/rss/@@3aE" htmlUrl="https://brunch.co.kr/@@3aE"/>
             <outline type="rss" text="예인의 새벽 내리는 길" title="예인의 새벽 내리는 길" xmlUrl="http://feeds.feedburner.com/yeinz" htmlUrl="http://yeinz.net/blog"/>
@@ -1941,7 +1975,7 @@
             <outline type="rss" text="쥐구멍" title="쥐구멍" xmlUrl="http://digthehole.tistory.com/rss" htmlUrl="https://digthehole.com/"/>
             <outline type="rss" text="고석균" title="고석균" xmlUrl="https://brunch.co.kr/rss/@@PmR" htmlUrl="https://brunch.co.kr/@@PmR"/>
             <outline type="rss" text="박한슬" title="박한슬" xmlUrl="https://brunch.co.kr/rss/@@Sn7" htmlUrl="https://brunch.co.kr/@@Sn7"/>
-            <outline type="rss" text="혼자 쓰는 블로그" title="혼자 쓰는 블로그" xmlUrl="https://rss.blog.naver.com/cto_hwangga.xml" htmlUrl="https://blog.naver.com/cto_hwangga"/>
+            <outline type="rss" text="아카이브" title="아카이브" xmlUrl="https://rss.blog.naver.com/cto_hwangga.xml" htmlUrl="https://blog.naver.com/cto_hwangga"/>
             <outline type="rss" text="[블로그 이사 예정] 철학, 끄적끄적" title="[블로그 이사 예정] 철학, 끄적끄적" xmlUrl="http://textexture.tistory.com/rss" htmlUrl="https://textexture.tistory.com/"/>
             <outline type="rss" text="바닐라라떼" title="바닐라라떼" xmlUrl="https://brunch.co.kr/rss/@@csQ" htmlUrl="https://brunch.co.kr/@@csQ"/>
             <outline type="rss" text="사이언스모니터 | The Science Monitor" title="사이언스모니터 | The Science Monitor" xmlUrl="http://scimonitors.com/feed/" htmlUrl="http://scimonitors.com"/>
@@ -1967,10 +2001,10 @@
             <outline type="rss" text="교수신문 - 최근인기기사" title="교수신문 - 최근인기기사" xmlUrl="http://www.kyosu.net/rss/clickTop.xml" htmlUrl="http://www.kyosu.net"/>
             <outline type="rss" text="과학과 철학/ Gk 비판적 사고" title="과학과 철학/ Gk 비판적 사고" xmlUrl="http://blog.daum.net/xml/rss/goodking" htmlUrl="https://blog.daum.net/goodking"/>
             <outline type="rss" text="티거 Jang" title="티거 Jang" xmlUrl="https://brunch.co.kr/rss/@@kF5" htmlUrl="https://brunch.co.kr/@@kF5"/>
-            <outline type="rss" text="허용회" title="허용회" xmlUrl="https://brunch.co.kr/rss/@@LVl" htmlUrl="https://brunch.co.kr/@@LVl"/>
+            <outline type="rss" text="MISSUE" title="MISSUE" xmlUrl="https://brunch.co.kr/rss/@@LVl" htmlUrl="https://brunch.co.kr/@@LVl"/>
             <outline type="rss" text="알로하융" title="알로하융" xmlUrl="https://brunch.co.kr/rss/@@79q" htmlUrl="https://brunch.co.kr/@@79q"/>
             <outline type="rss" text="조우성 변호사" title="조우성 변호사" xmlUrl="https://brunch.co.kr/rss/@@oZ3" htmlUrl="https://brunch.co.kr/@@oZ3"/>
-            <outline type="rss" text="오토모티브 일렉트로닉스 매거진_전체기사" title="오토모티브 일렉트로닉스 매거진_전체기사" xmlUrl="http://www.autoelectronics.co.kr/rss/" htmlUrl="http://www.autoelectronics.co.kr"/>
+            <outline type="rss" text="오토모티브 일렉트로닉스 매거진_전체기사" title="오토모티브 일렉트로닉스 매거진_전체기사" xmlUrl="http://www.autoelectronics.co.kr/rss/" htmlUrl="https://www.autoelectronics.co.kr"/>
             <outline type="rss" text="이성훈" title="이성훈" xmlUrl="https://brunch.co.kr/rss/@@2Jp" htmlUrl="https://brunch.co.kr/@@2Jp"/>
             <outline type="rss" text="Inspired by Mika" title="Inspired by Mika" xmlUrl="http://alleciel.wordpress.com/feed/" htmlUrl="https://alleciel.com"/>
             <outline type="rss" text="통계학 노트" title="통계학 노트" xmlUrl="http://jaekwangkim.com/feed.xml" htmlUrl="http://jaekwangkim.com/"/>
@@ -1981,9 +2015,10 @@
             <outline type="rss" text="Sue Moon's Blog" title="Sue Moon's Blog" xmlUrl="http://sbmoon.tistory.com/rss" htmlUrl="https://sbmoon.tistory.com/"/>
             <outline type="rss" text="KitaiKeith" title="KitaiKeith" xmlUrl="https://brunch.co.kr/rss/@@7YH" htmlUrl="https://brunch.co.kr/@@7YH"/>
             <outline type="rss" text="최재현 rss" title="최재현 rss" xmlUrl="https://brunch.co.kr/rss/@@3fT0" htmlUrl="https://brunch.co.kr/@@3fT0"/>
+            <outline type="rss" text="동경" title="동경" xmlUrl="https://brunch.co.kr/rss/@@1goS" htmlUrl="https://brunch.co.kr/@@1goS"/>
             <outline type="rss" text="한규동님의 포스타입" title="한규동님의 포스타입" xmlUrl="http://Han-Kyudong.postype.com/rss/" htmlUrl="https://han-kyudong.postype.com"/>
             <outline type="rss" text="월간 틀" title="월간 틀" xmlUrl="https://monthlykwak.net/feed/" htmlUrl="https://monthlykwak.net"/>
-            <outline type="rss" text="급진적 생물학자" title="급진적 생물학자" xmlUrl="http://heterosis.tistory.com/rss" htmlUrl="https://heterosis.tistory.com/"/>
+            <outline type="rss" text="heterosis" title="heterosis" xmlUrl="http://heterosis.tistory.com/rss" htmlUrl="https://heterosis.tistory.com/"/>
             <outline type="rss" text="적추의 3rd Life" title="적추의 3rd Life" xmlUrl="http://ksc12545.blog.me/rss" htmlUrl="http://ksc12545.blog.me"/>
             <outline type="rss" text="이금기소스 요리전문 블로그" title="이금기소스 요리전문 블로그" xmlUrl="http://blog.lkkkorea.com/rss" htmlUrl="https://blog.lkkkorea.com/"/>
             <outline type="rss" text="Sb리뷰 (웹툰은 Sb리뷰를 클릭해주세요)" title="Sb리뷰 (웹툰은 Sb리뷰를 클릭해주세요)" xmlUrl="http://sbrv.tistory.com/rss" htmlUrl="https://sbrv.tistory.com/"/>
@@ -2008,6 +2043,7 @@
             <outline type="rss" text="커먼즈 번역 네트워크" title="커먼즈 번역 네트워크" xmlUrl="http://commonstrans.net/?feed=rss2" htmlUrl="http://commonstrans.net"/>
             <outline type="rss" text="마시즘" title="마시즘" xmlUrl="http://masism.kr/feed" htmlUrl="https://masism.kr"/>
             <outline type="rss" text="WIRED Korea - 전체기사" title="WIRED Korea - 전체기사" xmlUrl="https://www.wired.kr/rss/allArticle.xml" htmlUrl="https://www.wired.kr"/>
+            <outline type="rss" text="[블로그 이사 예정] 철학, 끄적끄적" title="[블로그 이사 예정] 철학, 끄적끄적" xmlUrl="https://textexture.tistory.com/rss" htmlUrl="https://textexture.tistory.com/"/>
             <outline type="rss" text="REAL KOREANS" title="REAL KOREANS" xmlUrl="https://realkoreans.com/feed/" htmlUrl="https://realkoreans.com"/>
             <outline type="rss" text="감성현" title="감성현" xmlUrl="https://brunch.co.kr/rss/@@ibH" htmlUrl="https://brunch.co.kr/@@ibH"/>
             <outline type="rss" text="" title="" xmlUrl="https://brunch.co.kr/rss/@@2uHa" htmlUrl="https://brunch.co.kr/@@2uHa"/>
